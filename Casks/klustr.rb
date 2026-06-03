@@ -4,7 +4,7 @@ cask "klustr" do
 
   url "https://github.com/SametKUM/klustr/releases/download/v#{version}/klustr-v#{version}-darwin-arm64.tar.gz"
   name "Klustr"
-  desc "Cross-platform Kubernetes desktop client"
+  desc "Fast, lightweight Kubernetes desktop client"
   homepage "https://github.com/SametKUM/klustr"
 
   livecheck do
