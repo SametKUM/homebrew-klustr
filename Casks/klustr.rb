@@ -1,6 +1,6 @@
 cask "klustr" do
-  version "0.59.0"
-  sha256 "02deb89076b871b0369dc953328d4d85817445c7949c6405b551da3e7b100ee3"
+  version "0.59.1"
+  sha256 "d53987d1db57982bb544f5ff20684c4c4d86341b95aff6282237e86c344fa2be"
 
   url "https://github.com/SametKUM/klustr/releases/download/v#{version}/klustr-v#{version}-darwin-arm64.tar.gz"
   name "Klustr"
